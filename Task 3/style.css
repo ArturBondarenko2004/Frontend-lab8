@@ -1,0 +1,14 @@
+.container {
+	max-width: 500px;
+	position: relative;
+	margin: auto;
+ }
+
+ .slides {
+	display: none;
+	width: 100%;
+ }
+
+ img {
+	width: 100%;
+ }

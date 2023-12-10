@@ -1,0 +1,9 @@
+.tablo {
+	font-size: 1.5em;
+}
+.timer {
+	border:1px solid gray;
+	padding:10px;
+	margin: 10px;
+	width: 200px;
+}
